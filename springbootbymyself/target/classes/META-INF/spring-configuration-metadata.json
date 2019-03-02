@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "db",
+      "type": "com.whyme.springboot._02configurationproperties.MyDruidDataSource",
+      "sourceType": "com.whyme.springboot._02configurationproperties.MyDruidDataSource"
+    }
+  ],
+  "properties": [
+    {
+      "name": "db.driver-class-name",
+      "type": "java.lang.String",
+      "sourceType": "com.whyme.springboot._02configurationproperties.MyDruidDataSource"
+    },
+    {
+      "name": "db.password",
+      "type": "java.lang.String",
+      "sourceType": "com.whyme.springboot._02configurationproperties.MyDruidDataSource"
+    },
+    {
+      "name": "db.url",
+      "type": "java.lang.String",
+      "sourceType": "com.whyme.springboot._02configurationproperties.MyDruidDataSource"
+    },
+    {
+      "name": "db.username",
+      "type": "java.lang.String",
+      "sourceType": "com.whyme.springboot._02configurationproperties.MyDruidDataSource"
+    }
+  ],
+  "hints": []
+}
